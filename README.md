@@ -10,7 +10,7 @@
 
 I Fas 1 byggde ni ett fungerande internt admin-gränssnitt. Nu är det dags för det stora klivet: **att öppna butiken för konsumenterna**. 
 
-I detta projekt agerar er grupp ett professionellt webb- och konsultteam. Ert uppdrag är att ta en befintlig produktkatalog och förvandla den till en modern, inbjudande och högpresterande e-handelsbutik byggd i **Next.js (App Router)**. Ni utgår från en påbörjad PRD som ni i gruppen behöver fundera igenom, färdigställa och sen planera och genomföra enligt specifikationerna. Det finns en del som alla ska göra och en del som är med extra "features" där ni kan välja i gruppen. Målet är en färdig kundsida där man kan man kan leta runt bland varorna, läsa om dem och kanske t o m en kundvagn. Ni som grupp ansvarar för att göra kunden nöjd och presentera en snygg sida och funktionell sida som ni presenterar i slutet av arbetet. 
+I detta projekt agerar er grupp ett professionellt webb- och konsultteam. Ert uppdrag är att ta en befintlig produktkatalog och förvandla den till en modern, inbjudande och högpresterande e-handelsbutik byggd i **Next.js (App Router)**. Ni ska arbeta er igenom hela vägen från beställning till planering, genomförande och leverans av en första fungerande version av butiken.
 
 ---
 
