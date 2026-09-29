@@ -25,6 +25,7 @@ All dokumentation och alla mallar ni behöver under projektets gång finns samla
 | 🎤 **[redovisning.md](./redovisning.md)** | **Redovisningsinstruktion** | Struktur och checklista inför slutdemon och presentationen den 13 oktober. |
 | 🏛️ **[docs/ADR-mall.md](./docs/ADR-mall.md)** | **Architecture Decision Record** | Mall och exempel för att dokumentera era 1–2 viktigaste tekniska vägval. |
 | 📖 **[docs/GLOSSARY.md](./docs/GLOSSARY.md)** | **Domänordlista** | Referensguide för e-handelsbegrepp, agila termer och Next.js-arkitektur. |
+| 🎫 **[.github/ISSUE_TEMPLATE/](./.github/ISSUE_TEMPLATE/)** | **Issue-mallar** | Färdiga mallar för features/tasks och buggrapporter som GitHub visar automatiskt vid nya issues. |
 
 ---
 
